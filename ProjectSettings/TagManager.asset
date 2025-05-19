@@ -3,16 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Ground
+  - Water
+  - Land
+  - FxTemporaire
+  - Fuse
+  - NPC
+  - Damage
+  - ArrowSpawner
+  - lb_bird
+  - Arrow
+  - Explosion
+  - Cannon Ball
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Island
   - Water
   - UI
-  - 
-  - 
+  - Ship
+  - Enemy
   - 
   - 
   - 
