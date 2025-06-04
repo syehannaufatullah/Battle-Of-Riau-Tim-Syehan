@@ -35936,8 +35936,7 @@ MonoBehaviour:
   - prefab: {fileID: 8584139727522325391, guid: 038bb9d1eae04b441ba002a2e594effc,
       type: 3}
     count: 2
-  - prefab: {fileID: 9084178744666579740, guid: 236055d6d65d724428d5ac622d153bd7,
-      type: 3}
+  - prefab: {fileID: 310047621107072236, guid: 89730f8133f628b4ba60fd8a2babec18, type: 3}
     count: 1
   waveInterval: 5
   textDelay: 3
