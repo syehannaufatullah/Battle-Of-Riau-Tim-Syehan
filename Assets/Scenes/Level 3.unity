@@ -51841,7 +51841,7 @@ MonoBehaviour:
   cannonballForce: 50
   fireCooldown: 1
   cannonballLifetime: 5
-  cannonballDamage: 10
+  cannonballDamage: 20
   lineSegments: 60
   cannonballPrefab: {fileID: 8320154597029574181, guid: 444e48799ce82b44082f9063c0fdce49,
     type: 3}
