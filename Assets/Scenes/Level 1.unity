@@ -23923,6 +23923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 508c79271050e2e4ba11dd760fb0e5fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumlahMusuh: 80
   scoreTextRealTime: {fileID: 1728310180}
   scoreTextFinish: {fileID: 1320504077}
 --- !u!1 &1057055213 stripped
@@ -35783,7 +35784,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextButton: {fileID: 934860124}
-  fallDownCountThreshold: 6
+  fallDownCountThreshold: 8
   NPC_TeamArray:
   - {fileID: 527832592}
 --- !u!82 &1924696262
@@ -35935,9 +35936,9 @@ MonoBehaviour:
     count: 3
   - prefab: {fileID: 8584139727522325391, guid: 038bb9d1eae04b441ba002a2e594effc,
       type: 3}
-    count: 2
+    count: 3
   - prefab: {fileID: 310047621107072236, guid: 89730f8133f628b4ba60fd8a2babec18, type: 3}
-    count: 1
+    count: 2
   waveInterval: 5
   textDelay: 3
   spawnInterval: 20
@@ -58363,6 +58364,7 @@ CharacterController:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1351682830}
   - {fileID: 1861343896}
   - {fileID: 5117709274528050439}
   - {fileID: 460118084}
@@ -58377,7 +58379,6 @@ SceneRoots:
   - {fileID: 1145202637}
   - {fileID: 2125426079}
   - {fileID: 155358118}
-  - {fileID: 1351682830}
   - {fileID: 8434142850643952653}
   - {fileID: 1960039037}
   - {fileID: 2012468457}

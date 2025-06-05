@@ -6,6 +6,7 @@ using TMPro;
 public class ScoreManager : MonoBehaviour
 {    
     private int score;
+    public int jumlahMusuh;
     public TMP_Text scoreTextRealTime;
     public TMP_Text scoreTextFinish;
 
@@ -13,7 +14,7 @@ public class ScoreManager : MonoBehaviour
     public void AddScore(int points)
     {
         score += points;
-        scoreTextRealTime.text = "" + score;
-        scoreTextFinish.text = "" + score;
+        scoreTextRealTime.text = score + "/" + jumlahMusuh;
+        scoreTextFinish.text = score + "/" + jumlahMusuh;
     }
 }
