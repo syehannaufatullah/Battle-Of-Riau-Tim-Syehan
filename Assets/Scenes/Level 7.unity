@@ -2175,7 +2175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waveText: {fileID: 6895245695529049344}
   waves:
-  - prefab: {fileID: 8584139727522325391, guid: be6667815ff703b4ab2cbf2217f5e43d,
+  - prefab: {fileID: 8855002842046474377, guid: 82ddb1ae8fb3e4d4f828dc1df4264520,
       type: 3}
     count: 3
   waveInterval: 30
