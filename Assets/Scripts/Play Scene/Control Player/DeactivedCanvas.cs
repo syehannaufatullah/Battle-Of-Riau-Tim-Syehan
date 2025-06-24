@@ -7,6 +7,7 @@ public class DeactivedCanvas : MonoBehaviour
     public Canvas canvas;
     public float canvasDeactivateDelay = 15f;
     public GameObject teleportMap;
+    public GameObject timePreasure;
     public GameObject[] NPCs;
     
     void Start()
@@ -21,6 +22,7 @@ public class DeactivedCanvas : MonoBehaviour
         {
             canvas.gameObject.SetActive(false);
             teleportMap.SetActive(true);
+            timePreasure.SetActive(true);
 
             foreach (GameObject npc in NPCs)
             {
