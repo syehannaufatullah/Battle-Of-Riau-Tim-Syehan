@@ -1708,7 +1708,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67d31180b04bb9145979951a6dab7e8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 20
+  maxHealth: 10
   healthbar: {fileID: 3272091626819405222}
 --- !u!82 &1221505661461967602
 AudioSource:
@@ -2256,15 +2256,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   targets:
-  - {fileID: 4998041734160228558, guid: 4af4d504c9c10f641be1cf314b2e08d1, type: 3}
-  - {fileID: 6666490109310622007, guid: f16419fb1a14fbb40a0c862429912f84, type: 3}
-  - {fileID: 3384196180078358878, guid: f2ab5b16a1c276e49b276f551f4ce830, type: 3}
-  - {fileID: 127177831803000900, guid: ab7af62b21a327044a57b1d520391c40, type: 3}
-  - {fileID: 3723438783642804546, guid: d12f560b0ac363845a6f74456ed4fa0c, type: 3}
-  - {fileID: 2009476427266459534, guid: 38c5b1a208fe908429866e1c4ba0f63a, type: 3}
-  - {fileID: 6380078265654565732, guid: b6bb8bfb86b32ac4aa95f78e6757ff01, type: 3}
-  - {fileID: 142476097296375982, guid: 18fa0a305ddb6c54a86f60ee56390ac4, type: 3}
-  - {fileID: 3886779797752944773, guid: 02134c7981130dc4e88d5197fc8c86c2, type: 3}
+  - {fileID: 4108911193359015548, guid: 4af4d504c9c10f641be1cf314b2e08d1, type: 3}
+  - {fileID: 621010415582487233, guid: f16419fb1a14fbb40a0c862429912f84, type: 3}
+  - {fileID: 2121703295001627969, guid: f2ab5b16a1c276e49b276f551f4ce830, type: 3}
+  - {fileID: 2407227330540775912, guid: ab7af62b21a327044a57b1d520391c40, type: 3}
+  - {fileID: 7183024781651880445, guid: d12f560b0ac363845a6f74456ed4fa0c, type: 3}
+  - {fileID: 6783654035579710935, guid: 38c5b1a208fe908429866e1c4ba0f63a, type: 3}
+  - {fileID: 2318689685799078108, guid: b6bb8bfb86b32ac4aa95f78e6757ff01, type: 3}
+  - {fileID: 6686308209784266962, guid: 18fa0a305ddb6c54a86f60ee56390ac4, type: 3}
+  - {fileID: 3710233265597393913, guid: 02134c7981130dc4e88d5197fc8c86c2, type: 3}
+  - {fileID: 3320490819878065188, guid: e64434daad6d6a64093dd41c8e58e845, type: 3}
   delay: 0
 --- !u!1 &6403205896684060985
 GameObject:
