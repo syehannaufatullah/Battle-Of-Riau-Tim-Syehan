@@ -14,9 +14,9 @@ GameObject:
   - component: {fileID: 7602473840769165893}
   - component: {fileID: 1226237128894972196}
   - component: {fileID: 2017844962308030026}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cannonball_NPC
-  m_TagString: Untagged
+  m_TagString: CannonBallNPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -208,6 +208,46 @@ PrefabInstance:
       propertyPath: moveWithTransform
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1640090214532577707, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2266619539070912054, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2447270218099169700, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2572779494931451534, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2674969268086666414, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218109224368376627, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3531217322562262946, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3586071295331488788, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 3620607660193568852, guid: 60c88e966a0f8324da766221921ee65f,
         type: 3}
       propertyPath: m_Materials.Array.size
@@ -223,10 +263,35 @@ PrefabInstance:
       propertyPath: moveWithTransform
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4067361781762468745, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4086739964602181695, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4116133484595938281, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4116370457528061377, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 4289846121135843273, guid: 60c88e966a0f8324da766221921ee65f,
         type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4967134862156468790, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5012733527486519099, guid: 60c88e966a0f8324da766221921ee65f,
         type: 3}
@@ -348,10 +413,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: CFXR Water Splash
       objectReference: {fileID: 0}
+    - target: {fileID: 5531231052371847854, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 5531231052371847855, guid: 60c88e966a0f8324da766221921ee65f,
         type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5573395842851499435, guid: 60c88e966a0f8324da766221921ee65f,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5629449522299147222, guid: 60c88e966a0f8324da766221921ee65f,
         type: 3}
@@ -474,6 +549,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: CFXR Smoke Poof (Dense)
       objectReference: {fileID: 0}
+    - target: {fileID: 1597686569084602476, guid: 78ee1fc7beb65da41ad23fc1c2e427b9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1597686569084602478, guid: 78ee1fc7beb65da41ad23fc1c2e427b9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1597686569084703820, guid: 78ee1fc7beb65da41ad23fc1c2e427b9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -590,10 +675,20 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2398608829018553033, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2398608829112670308, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
       propertyPath: m_Intensity
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2398608829112670311, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2398608829508964982, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
@@ -695,6 +790,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: CFXR Explosion Smoke 2 (HDR)
       objectReference: {fileID: 0}
+    - target: {fileID: 2398608829508964987, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2398608830243621702, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
       propertyPath: playOnAwake
@@ -709,6 +809,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2398608830243621707, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2398608830310066994, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
@@ -725,6 +830,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2398608830310066999, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2398608830440764332, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
       propertyPath: playOnAwake
@@ -740,6 +850,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2398608830440764369, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 2398608830892060876, guid: f387ac791007951459ed6a93dfa675bf,
         type: 3}
       propertyPath: playOnAwake
@@ -754,6 +869,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2398608830892060913, guid: f387ac791007951459ed6a93dfa675bf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2398608829508964983, guid: f387ac791007951459ed6a93dfa675bf, type: 3}

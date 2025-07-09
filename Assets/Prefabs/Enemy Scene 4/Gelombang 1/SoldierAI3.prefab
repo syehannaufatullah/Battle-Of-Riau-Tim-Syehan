@@ -1696,7 +1696,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.2
+  m_Radius: 0.4
   m_Height: 1.9
   m_Direction: 1
   m_Center: {x: 0, y: 0.95, z: 0}
@@ -2458,16 +2458,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   targets:
-  - {fileID: 4108911193359015548, guid: 4af4d504c9c10f641be1cf314b2e08d1, type: 3}
-  - {fileID: 621010415582487233, guid: f16419fb1a14fbb40a0c862429912f84, type: 3}
-  - {fileID: 2121703295001627969, guid: f2ab5b16a1c276e49b276f551f4ce830, type: 3}
-  - {fileID: 2407227330540775912, guid: ab7af62b21a327044a57b1d520391c40, type: 3}
-  - {fileID: 7183024781651880445, guid: d12f560b0ac363845a6f74456ed4fa0c, type: 3}
-  - {fileID: 6783654035579710935, guid: 38c5b1a208fe908429866e1c4ba0f63a, type: 3}
-  - {fileID: 2318689685799078108, guid: b6bb8bfb86b32ac4aa95f78e6757ff01, type: 3}
-  - {fileID: 6686308209784266962, guid: 18fa0a305ddb6c54a86f60ee56390ac4, type: 3}
-  - {fileID: 3710233265597393913, guid: 02134c7981130dc4e88d5197fc8c86c2, type: 3}
-  - {fileID: 3320490819878065188, guid: e64434daad6d6a64093dd41c8e58e845, type: 3}
+  - {fileID: 8294537043787208242, guid: 4af4d504c9c10f641be1cf314b2e08d1, type: 3}
+  - {fileID: 8210204372364400393, guid: f16419fb1a14fbb40a0c862429912f84, type: 3}
+  - {fileID: 5452981483186580017, guid: f2ab5b16a1c276e49b276f551f4ce830, type: 3}
+  - {fileID: 3193702751289719928, guid: ab7af62b21a327044a57b1d520391c40, type: 3}
+  - {fileID: 6654698078291294369, guid: d12f560b0ac363845a6f74456ed4fa0c, type: 3}
+  - {fileID: 2670848264873071978, guid: 38c5b1a208fe908429866e1c4ba0f63a, type: 3}
+  - {fileID: 8936547915022480301, guid: b6bb8bfb86b32ac4aa95f78e6757ff01, type: 3}
+  - {fileID: 311465025013583838, guid: 18fa0a305ddb6c54a86f60ee56390ac4, type: 3}
+  - {fileID: 1096670605087934651, guid: 02134c7981130dc4e88d5197fc8c86c2, type: 3}
+  - {fileID: 851706906402459256, guid: e64434daad6d6a64093dd41c8e58e845, type: 3}
   delay: 0
 --- !u!1 &8169996090207328846
 GameObject:

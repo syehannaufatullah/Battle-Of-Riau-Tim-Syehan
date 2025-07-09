@@ -83107,7 +83107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c1b7a82f1cab97549b17f4ca04f88fc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  requiredDestroyedCount: 60
+  requiredDestroyedCount: 1
   image: {fileID: 8571344732746247636}
 --- !u!65 &1215380746
 BoxCollider:
@@ -106712,7 +106712,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8979d0fcaba3c4b4f80715c5b9e481bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDownSpeed: 5
+  fallDownSpeed: 10
   addPoints: 10
   waveText: {fileID: 2280376211942851274}
   waves:
@@ -106791,9 +106791,9 @@ MonoBehaviour:
   - prefab: {fileID: 4876882728272960474, guid: 0978907c318130c488e4a6176aa430dd,
       type: 3}
     count: 2
-  waveInterval: 0
+  waveInterval: 10
   textDelay: 3
-  spawnInterval: 10
+  spawnInterval: 20
   spawnPositionX: -195.4
   spawnPositionY: 4.7
   spawnPositionZ: 269.5
